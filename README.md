@@ -7,7 +7,7 @@
   </p>
   
   <p>
-  I've downloaded the dataset from <a href="https://www.kaggle.com/avikasliwal/used-cars-price-prediction">kaggale website</a>. I'm just a newbie to this, but have worked with;<b><li>RandomForest.</li><XGBoost.</li><li>DecisionTree.</li></b>
+  I've downloaded the dataset from <a href="https://www.kaggle.com/avikasliwal/used-cars-price-prediction">kaggale website</a>. I'm just a newbie to this, but have worked with;<b><li>RandomForest.</li><li>XGBoost.</li><li>DecisionTree.</li></b>
   </p>
   
   <p>
